@@ -20,7 +20,7 @@ A fully interactive 3D skateboard website built using **Three.js**, **Next.js**,
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/euii-ii/skateboard.git
    cd 3d-skateboard-website
    ```
 2. Install dependencies:
